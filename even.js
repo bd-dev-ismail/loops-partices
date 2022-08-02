@@ -7,6 +7,9 @@ while(number <= 10){
 //Target to display 1 to 10 all even number;
 var num = 0;
 while(num <= 10){
-    console.log(num);
+    // console.log(num);
     num = num + 2;
+}
+for(var i =3; i < 5; i++){
+    console.log(i);
 }

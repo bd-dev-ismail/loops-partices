@@ -14,3 +14,5 @@ while(print <10){
     console.log('I love You');
     num++;
 }
+var name = 'false';
+console.log(name);
