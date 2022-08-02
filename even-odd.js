@@ -10,3 +10,7 @@ while(odd <= 20){
     console.log(odd);
     odd = odd +2;
 }
+//for loop
+for(var num = 0; num < 7; num++){
+    console.log('This is for loop');
+}
